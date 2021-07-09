@@ -1,1 +1,1 @@
-## Building an Election portal DApps using Ethereum blochain and truffle.
+## Building an Election portal DApps using Ethereum blochain , truffle and Ganache.
